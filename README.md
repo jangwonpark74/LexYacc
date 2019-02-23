@@ -15,3 +15,6 @@
 ### Simple Example 
   - [Writing an Interpreter with Lex, Yacc, and Memphis](http://memphis.compilertools.net/interpreter.html)
 
+## Cloud Example
+  - [AWS LEX chat bot](https://hackernoon.com/building-a-serverless-chatbot-with-aws-lex-lambda-and-amazon-aurora-part-1-5406e8db6123)
+  - [Amazon lex](https://aws.amazon.com/ko/blogs/machine-learning/building-a-conversational-business-intelligence-bot-with-amazon-lex/)
